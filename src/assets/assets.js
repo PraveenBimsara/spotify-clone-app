@@ -46,6 +46,8 @@ import img21 from './chamara.jpg'
 import img22 from './asantha.jpg'
 import img23 from './dinesh.jpg'
 import img24 from './50.jpg'
+import img25 from './tommy.jpg'
+import img26 from './tamil.jpg'
 import song1 from  './song1.mp3'
 import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
@@ -246,5 +248,48 @@ export const artistData = [
     {
         image: img24,
         name: '50 Cent',
+    }
+]
+
+export const topData = [
+    {
+        image:img17,
+        name:'Hip Hop Mix',
+        desc:'Eminem, Snoop Dogg, Dr. Dre and more'
+    },
+    {
+        image:img19,
+        name:'Snoop Dogg Mix',
+        desc:'Dr. Dre, The Notorious B.I.G. and Outkast'
+    },
+    {
+        image:img25,
+        name:'Upbeat Mix',
+        desc:'Tommy Richman, Sabrina Carpenter, Billie Ellish and more'
+    },
+    {
+        image:img26,
+        name:'Tamil Mix',
+        desc:'Sai Abhiyankar, Anirudh Ravichander and more'
+    },
+    {
+        image:img17,
+        name:'2000s Mix',
+        desc:'Eminem, Snoop Dogg and more'
+    },
+    {
+        image:img18,
+        name:'Dr. Dre Mix',
+        desc:'Snoop Dogg, The Notorious B.I.G Outkast'
+    },
+    {
+        image:img17,
+        name:'Moody Mix',
+        desc:'Eminem and more'
+    },
+    {
+        image:img19,
+        name:'R&B Mix',
+        desc:'Snoop Dogg and more'
     }
 ]
