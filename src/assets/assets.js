@@ -82,7 +82,7 @@ export const albumsData = [
         name: "Top 50 Sri Lanka",
         image: img9,
         desc:"Your weekly update of the most played tracks",
-        bgColor:"#22543d"
+        bgColor:"#ed840f"
     },
     {   
         id:2,
